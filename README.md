@@ -5,7 +5,7 @@
 富、士通のPCのファームウェア更新ソフトウェアから、BIOSイメージを抽出するPythonスクリプトです。  
 
 ## Environment
-**Python3.8.10** と **Windows11** の環境で動作確認しています。
+**Python3.8.10** と **Windows11** の環境で動作確認しています。(追記:Macでも動きました。)
 サンプルとして、[こちら](https://azby.fmworld.net/app/customer/driversearch/pc/drvdownload?mode=0&driverNumber=E1033602)のファイルを使用させて頂きました。
 
 ## Usage
